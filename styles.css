@@ -1,0 +1,41 @@
+body {
+    background-image: url(../img/leaves-pattern.webp);
+    margin: 0;
+}
+
+.heading {
+    text-align: center;
+    background: grey;
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h2 {
+    text-align:left;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+
+}
+
+a:link {
+color: orangered;
+}
+
+a:visited {
+color: black;
+
+}
+
+a:active {
+text-transform: uppercase;
+
+}
+
+a:hover {
+color: crimson;
+text-decoration-color: cornflowerblue;
+}
